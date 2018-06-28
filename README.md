@@ -1,4 +1,4 @@
-# metin2TrTipiPanel
+# TR TİPİ METİN2 PANELİ
 Merhabalar,
 
 Uzun zamandır paylaşım yapmıyorum yeni bir tanıtım scripti kodladım onun satışını yapıyordum bir tanede kendim açtım bunu da ona reklam olması amacıyla paylaşıyorum umarım değer bilip siteyi ziyaret eder katkı amaçlı google reklamlarına tıklarsınız.
