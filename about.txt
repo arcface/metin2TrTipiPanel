@@ -1,0 +1,2 @@
+account_aktar.sql > yükle > oyunun account veri tabanına yükleyin
+setting > ayar.php > düzenle > Gerekli alanların yanlarında düzeltmen gereken komutlar yazıyor olacak
