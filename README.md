@@ -1,6 +1,9 @@
 # TR TİPİ METİN2 PANELİ
 Merhabalar,
 
+Bana destek olma amaçlı alttaki linke tıklayıp site üzerindeki google reklamlarına tıklarsanızda çok memnun olurum.
+<a href="https://www.onlinepvpservers.com/index/?ref=github">https://www.onlinepvpservers.com/index/</a>
+
 Uzun zamandır paylaşım yapmıyorum yeni bir tanıtım scripti kodladım onun satışını yapıyordum bir tanede kendim açtım bunu da ona reklam olması amacıyla paylaşıyorum umarım değer bilip siteyi ziyaret eder katkı amaçlı google reklamlarına tıklarsınız.
 
 Bu panelin satışını yapıyordum fakat artık spagetli kodlama fikrinden vazgeçmeye karar verdim bu yüzden spagetli türünde yazdığım scriptleri paylaşmayı planlıyorum. Buda yazdığım spagetli kodlamarından biri ve ilk paylaşım olsun.
