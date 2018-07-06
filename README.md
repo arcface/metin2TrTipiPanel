@@ -1,8 +1,8 @@
 # TR TİPİ METİN2 PANELİ
 Merhabalar,
 
-Bana destek olma amaçlı alttaki linke tıklayıp site üzerindeki google reklamlarına tıklarsanızda çok memnun olurum.
-<a href="https://www.onlinepvpservers.com/index/?ref=github">https://www.onlinepvpservers.com/index/</a>
+Daha detaylı anlatım ve sayfaların görüntülerini görmek için siteye ziyaret edebilirsiniz Bana destek olma amaçlıda google reklamlarına tıklarsanız memnun olurum.
+<a href="https://www.onlinepvpservers.com/subject/103-tr-tipi-metin2-scripti-paneli/">https://www.onlinepvpservers.com/subject/103-tr-tipi-metin2-scripti-paneli/</a>
 
 Uzun zamandır paylaşım yapmıyorum yeni bir tanıtım scripti kodladım onun satışını yapıyordum bir tanede kendim açtım bunu da ona reklam olması amacıyla paylaşıyorum umarım değer bilip siteyi ziyaret eder katkı amaçlı google reklamlarına tıklarsınız.
 
