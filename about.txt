@@ -1,4 +1,0 @@
-﻿account_aktar.sql > yükle > oyunun account veri tabanına yükleyin
-setting > ayar.php > düzenle > Gerekli alanların yanlarında düzeltmen gereken komutlar yazıyor olacak
-Eğer azda olsa insansanız ki öyle olduğunu düşünüyorum. Emeğe saygı amaçlı https://www.onlinepvpservers.com/subject/103-tr-tipi-metin2-scripti-paneli/
-bu siteyi ziyaret ederek google reklamlarına tıklayıp bana destek olun lütfen. Bu kadar küçük bir şeyi yapacak kadar insan değilseniz de hakkımı haram ediyorum.
